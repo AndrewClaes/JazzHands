@@ -16,4 +16,4 @@ Log in to JazzHands network and adjust settings from any browser.
 Everything is included from Arduino Code and mounting guide, to gerber files and BOM.
 
 for more info:
-andrewclaes.net
+https://andrewclaes.net
