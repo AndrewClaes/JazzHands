@@ -11,7 +11,7 @@ The system makes use of unipolar hall effect switches, mounted near the correspo
 Magnets are attached to the corresponding moving parts on the keywork.
 
 Please visit 
-[https://andrewclaes.net/](https://www.instructables.com/Jazz-Hands-Hybrid-Saxophone/)https://www.instructables.com/Jazz-Hands-Hybrid-Saxophone/
+https://www.instructables.com/Jazz-Hands-Hybrid-Saxophone/
 
 more info:
 https://andrewclaes.net
